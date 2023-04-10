@@ -1,0 +1,22 @@
+/* Classe executável.
+ * Logo, necessita ter um método principal, esse método é o main.
+ * Toda classe precisa existir no seu diretório src do seu projeto.
+ * Nomes em maiúsculos
+ * 
+ */
+
+public class MinhaClasse { //Nomes de Classe iniciam-se sempre com letras maiúsculas.
+
+
+    /*
+     * Nosso método main, é 'especial', por isso precisa seguir um padrão:
+     * public
+     * static
+     * void
+     * parâmetros: String[] args
+     * string, feita por um array "[]" e nessas Strings, possuem argumentos.
+     */
+    public static void main(String[] args) { //main é o método principal da classe executável
+        System.out.print("Olá pessoas!");  //System = Classe do sitema, possui operações de input e output
+    }                                        //System.out (saída)
+}                                            //print
