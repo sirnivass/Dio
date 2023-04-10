@@ -10,6 +10,7 @@ A Classe deve possuir o mesmo nome do arquivo.
 --
 #Variáveis - camelCase
 
+    Compreendemos que para declarar uma variável como uma constante, utilizamos a palavra  final, mas por convenção, esta variável deverá ser escrita toda em caixa alta.
 Escritas com letra minúscula, mas as sucetivas com letra Maiúsculas.
 Devem conter: Letras, _, $ e números 0 a 9
 Iniciam-se com letras minúsuclas
@@ -50,5 +51,5 @@ Java Beans:
     Métodos:
     Métodos são, no geral, verbos. Iniciam com letras min. e subsequentes com Maiúsculas
     Ex: abrirConexao(), somar(), concluirProcessamento{}
-    
+
 

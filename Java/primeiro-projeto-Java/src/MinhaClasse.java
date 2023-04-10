@@ -18,13 +18,7 @@ public class MinhaClasse { // Nomes de Classe iniciam-se sempre com letras maiú
     public static void main(String[] args) { //main é o método principal da classe executávelSystem = Classe do sitema, possui operações de input e output.
         
         //Variáveis:
-        String primeiroNome = "Rodolffo", segundoNome = "Nivass", nomeCompleto = nomeCompleto(primeiroNome, segundoNome);
-        int anoDeNascimento;
         System.out.print("Olá pessoas!");
     
     }
-
-    public static String nomeCompleto(String primeiroNome String segundoNome) {
-        return primeiroNome.contains(" ").contains(segundoNome);
-    }    
 }
