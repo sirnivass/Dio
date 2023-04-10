@@ -19,10 +19,10 @@ Não podem conter espaços
 Não podem usar termos reservados
 Nome único dentro do escopo.
 
- 
+
 ---
 Caso uma variável seja uma constante:
 1 - final - palavra reservada, define uma constante. Ex: final string BR = "Brasil"
 2 - Constante comumenta possuem todos as letras maiúsculas Ex: ESTADOS_BRASILEIROS = 27
----
+
 
