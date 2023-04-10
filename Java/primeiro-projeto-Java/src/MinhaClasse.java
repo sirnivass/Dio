@@ -16,7 +16,7 @@ public class MinhaClasse { //Nomes de Classe iniciam-se sempre com letras maiús
      * parâmetros: String[] args
      * string, feita por um array "[]" e nessas Strings, possuem argumentos.
      */
-    public static void main(String[] args) { //main é o método principal da classe executável
-        System.out.print("Olá pessoas!");  //System = Classe do sitema, possui operações de input e output
-    }                                        //System.out (saída)
-}                                            //print
+    public static void main(String[] args) { //main é o método principal da classe executávelSystem = Classe do sitema, possui operações de input e output.
+        System.out.print("Olá pessoas!");
+    }
+}
